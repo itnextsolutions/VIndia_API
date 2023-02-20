@@ -1,0 +1,21 @@
+ALTER procedure [dbo].[SP_GetProductCategory]
+
+AS
+BEGIN
+select * from tbl_Product_Category
+where IsActive = 1
+Order By Update_Date Desc
+END
+
+------------------------------------------------------------------
+
+ALTER procedure [dbo].[SP_InsertProductCategory]
+@Category_Name nvarchar(100),
+@Category_Description nvarchar(100),
+@Category_Photo nvarchar(100)
+ 
+AS
+BEGIN
+
+insert into tbl_Product_Category(Category_Name,IsActive,Category_Description,Category_Photo, Created_Date,Update_Date)
+values(@Category_Name,1,@Category_Description,@Category_Photo,GetDate(),GetDate())

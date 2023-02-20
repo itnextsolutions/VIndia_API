@@ -1,0 +1,226 @@
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\VastraIndiaDAL.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\VastraIndiaDAL.pdb
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.csproj.AssemblyReference.cache
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.csproj.CoreCompileInputs.cache
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.pdb
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\VastraIndiaDAL.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\VastraIndiaDAL.pdb
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.csproj.AssemblyReference.cache
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.csproj.CoreCompileInputs.cache
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.pdb
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\System.Data.SqlClient.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\System.Data.SqlClient.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.csproj.CopyComplete
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\VastraIndiaDAL.dll.config
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\System.Buffers.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\System.Memory.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\System.Text.Json.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\System.ValueTuple.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\System.Buffers.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\System.Memory.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\System.Text.Json.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\System.ValueTuple.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\FizzWare.NBuilder.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Antlr3.Runtime.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Iesi.Collections.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\NHibernate.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Remotion.Linq.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Antlr3.Runtime.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Iesi.Collections.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\NHibernate.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Remotion.Linq.xml
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaDAL\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\VastraIndiaDAL.dll.config
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\VastraIndiaDAL.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\VastraIndiaDAL.pdb
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Antlr3.Runtime.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\FizzWare.NBuilder.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Iesi.Collections.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\NHibernate.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Remotion.Linq.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\System.Buffers.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\System.Data.SqlClient.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\System.Memory.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\System.Text.Json.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\System.ValueTuple.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Antlr3.Runtime.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Iesi.Collections.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\NHibernate.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Remotion.Linq.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\System.Buffers.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\System.Data.SqlClient.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\System.Memory.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\System.Text.Json.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\bin\Debug\System.ValueTuple.xml
+C:\Projects\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.csproj.AssemblyReference.cache
+C:\Projects\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.csproj.CoreCompileInputs.cache
+C:\Projects\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.csproj.CopyComplete
+C:\Projects\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.dll
+C:\Projects\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.pdb
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\VastraIndiaDAL.dll.config
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\VastraIndiaDAL.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\VastraIndiaDAL.pdb
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Antlr3.Runtime.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\FizzWare.NBuilder.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Iesi.Collections.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\NHibernate.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Remotion.Linq.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\System.Buffers.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\System.Data.SqlClient.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\System.Memory.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\System.Text.Json.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\System.ValueTuple.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Antlr3.Runtime.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Iesi.Collections.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\NHibernate.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Remotion.Linq.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\System.Buffers.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\System.Data.SqlClient.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\System.Memory.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\System.Text.Json.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\bin\Debug\System.ValueTuple.xml
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.csproj.AssemblyReference.cache
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.csproj.CoreCompileInputs.cache
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.csproj.CopyComplete
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.pdb
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\VastraIndiaDAL.dll.config
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\VastraIndiaDAL.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\VastraIndiaDAL.pdb
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Antlr3.Runtime.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\FizzWare.NBuilder.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Iesi.Collections.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\NHibernate.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Remotion.Linq.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\System.Buffers.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\System.Data.SqlClient.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\System.Memory.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\System.Text.Json.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\System.ValueTuple.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Antlr3.Runtime.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Iesi.Collections.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\NHibernate.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Remotion.Linq.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\System.Buffers.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\System.Data.SqlClient.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\System.Memory.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\System.Text.Json.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\bin\Debug\System.ValueTuple.xml
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.csproj.AssemblyReference.cache
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.csproj.CoreCompileInputs.cache
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.csproj.CopyComplete
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.pdb

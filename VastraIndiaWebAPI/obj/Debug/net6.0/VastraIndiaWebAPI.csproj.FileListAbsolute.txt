@@ -1,0 +1,291 @@
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\web.config
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.exe
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.deps.json
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.runtimeconfig.json
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.pdb
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.csproj.AssemblyReference.cache
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.AssemblyInfoInputs.cache
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.AssemblyInfo.cs
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.csproj.CoreCompileInputs.cache
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\scopedcss\bundle\VastraIndiaWebAPI.styles.css
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.csproj.CopyComplete
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\refint\VastraIndiaWebAPI.dll
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.pdb
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.genruntimeconfig.cache
+C:\Projects\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\ref\VastraIndiaWebAPI.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\web.config
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.exe
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.deps.json
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.runtimeconfig.json
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.pdb
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.csproj.AssemblyReference.cache
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.AssemblyInfoInputs.cache
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.AssemblyInfo.cs
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.csproj.CoreCompileInputs.cache
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\scopedcss\bundle\VastraIndiaWebAPI.styles.css
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.csproj.CopyComplete
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\refint\VastraIndiaWebAPI.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.pdb
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.genruntimeconfig.cache
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\ref\VastraIndiaWebAPI.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaDAL.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaDAL.pdb
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaDAL.dll.config
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Alpesh\Vastra India .net Core\VastraIndia\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Nancy.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\web.config
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.exe
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.deps.json
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.runtimeconfig.json
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.pdb
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Nancy.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaDAL.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaDAL.pdb
+C:\Projects\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaDAL.dll.config
+C:\Projects\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.csproj.AssemblyReference.cache
+C:\Projects\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.AssemblyInfoInputs.cache
+C:\Projects\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.AssemblyInfo.cs
+C:\Projects\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.csproj.CoreCompileInputs.cache
+C:\Projects\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projects\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projects\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\scopedcss\bundle\VastraIndiaWebAPI.styles.css
+C:\Projects\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.csproj.CopyComplete
+C:\Projects\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\refint\VastraIndiaWebAPI.dll
+C:\Projects\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.pdb
+C:\Projects\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.genruntimeconfig.cache
+C:\Projects\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\ref\VastraIndiaWebAPI.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\web.config
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.exe
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.deps.json
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.runtimeconfig.json
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.pdb
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Nancy.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaDAL.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaDAL.pdb
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaDAL.dll.config
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.csproj.AssemblyReference.cache
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.AssemblyInfoInputs.cache
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.AssemblyInfo.cs
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.csproj.CoreCompileInputs.cache
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\scopedcss\bundle\VastraIndiaWebAPI.styles.css
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.csproj.CopyComplete
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\refint\VastraIndiaWebAPI.dll
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.pdb
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.genruntimeconfig.cache
+C:\Alpesh\Vastra India .net Core\New\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\ref\VastraIndiaWebAPI.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\web.config
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.exe
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.deps.json
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.runtimeconfig.json
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaWebAPI.pdb
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Nancy.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaDAL.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaDAL.pdb
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\bin\Debug\net6.0\VastraIndiaDAL.dll.config
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.csproj.AssemblyReference.cache
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.AssemblyInfoInputs.cache
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.AssemblyInfo.cs
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.csproj.CoreCompileInputs.cache
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\scopedcss\bundle\VastraIndiaWebAPI.styles.css
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.csproj.CopyComplete
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\refint\VastraIndiaWebAPI.dll
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.pdb
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\VastraIndiaWebAPI.genruntimeconfig.cache
+C:\Projects\Alpesh_VastraPro\VastraIndia\VastraIndiaWebAPI\obj\Debug\net6.0\ref\VastraIndiaWebAPI.dll
