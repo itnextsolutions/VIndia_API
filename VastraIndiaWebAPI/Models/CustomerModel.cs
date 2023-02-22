@@ -22,5 +22,6 @@ namespace VastraIndiaWebAPI.Models
         public DateTime ReviewDate { get; set; }
 
         public string Rating { get; set; }
+        public IFormFile formFile { get; set; }
     }
 }

@@ -110,18 +110,19 @@ namespace VastraIndiaDAL
             return dt;
         }
 
-        //public DataTable DeleteCustomerReviewById(int Id)
-        //{
-        //    SqlParameter[] param = new SqlParameter[1];
+        public DataTable DeleteCustomerReviewById(int Id)
+        {
+            SqlParameter[] param = new SqlParameter[1];
 
-        //    param[0] = new SqlParameter();
-        //    param[0].ParameterName = "@Id";
-        //    param[0].Value = Id;
-        //    param[0].Direction = ParameterDirection.Input;
+            param[0] = new SqlParameter();
+            param[0].ParameterName = "@Customer_Review_Id";
+            param[0].Value = Id;
+            param[0].Direction = ParameterDirection.Input;
 
-        //    dt = objsqlHelper.ExecuteDataTable(objsqlHelper.GetConnection(), CommandType.StoredProcedure, "SP_DeleteLookupMasterById", param);
-        //    return dt;
-        //}
+            dt = objsqlHelper.ExecuteDataTable(objsqlHelper.GetConnection(), CommandType.StoredProcedure, "SP_DeleteCustReview", param);
+            return dt;
+        }
+
 
         public DataTable GetCustomerReviewPage(int pageNo, int pageSize)
         {

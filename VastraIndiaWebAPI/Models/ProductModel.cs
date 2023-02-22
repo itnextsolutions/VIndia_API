@@ -12,14 +12,19 @@ namespace VastraIndiaWebAPI.Models
 
         public int Category_Id { get; set; }
         public int SubCategory_Id { get; set; }
-        public int[] SizeId { get; set; }
+        public string SizeId { get; set; }
 
-        public int[] ColorId { get; set; }
+        public string ColorId { get; set; }
+        //public int[] SizeId { get; set; }
+
+        //public int[] ColorId { get; set; }
         public string Product_Title { get; set; }
 
         public string Product_Description { get; set; }
 
         public string Image_Name { get; set; }
+        public IFormFile formFile { get; set; }
+
         //public int IsActive { get; set; }
 
         //public DateTime Created_Date { get; set; }
