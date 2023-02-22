@@ -20,10 +20,8 @@ namespace VastraIndiaWebAPI.Models
 
         public string Imagepath { get; set; }
 
-        public IFormFile files { get; set; }
+        public IFormFile formFile { get; set; }
 
-        public DateTime? Created_Date { get; set; }
-     
-        public DateTime? Update_Date { get; set; }
+
     }
 }

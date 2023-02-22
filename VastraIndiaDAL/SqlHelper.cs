@@ -15,7 +15,7 @@ namespace VastraIndiaDAL
 {
     public class SqlHelper
     {
-        public static string sqlDataSource = "Data Source=DESKTOP-0MVKRLN; Initial Catalog=Vastra; Integrated Security= True;";
+        public static string sqlDataSource = "Data Source=DESKTOP-6TQE5G7;Initial Catalog=Vastra ; Integrated Security = True;";
 
         private Hashtable parmCache = Hashtable.Synchronized(new Hashtable());
         public SqlParameter[] cmdParameter;
