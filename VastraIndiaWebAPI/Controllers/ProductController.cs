@@ -23,9 +23,11 @@ namespace VastraIndiaWebAPI.Controllers
     //[ApiController]
     public class ProductController : ControllerBase
     {
+
         DataTable dt = new DataTable();
         ProductDAL objProductDAL = new ProductDAL();
         SqlHelper objsqlHelper = new SqlHelper();
+        SaveImageDAL saveImage = new SaveImageDAL();
 
         [HttpGet]
         [Route("api/Product/GetProdutCatDropDown")]
@@ -99,43 +101,120 @@ namespace VastraIndiaWebAPI.Controllers
 
         }
 
+        //// POST api/<ProductController>
+        //[Route("api/Product/InsertProduct")]
+        //[HttpPost]
+        //public IActionResult Post([FromBody] ProductModel product)
+        //{
+
+
+        //    if (product.ColorId != null & product.SizeId != null)
+        //    {
+        //        string xmlcolor = objsqlHelper.ListStrAryToXML(product.ColorId, "colors", "colorcode", "colorid");
+        //        string xmlsize = objsqlHelper.ListStrAryToXML(product.SizeId, "size", "sizecode", "sizeid");
+        //        dt = objProductDAL.InsertProduct((int)product.Category_Id, product.SubCategory_Id, product.Product_Title, product.Product_Description, product.Image_Name, xmlcolor, xmlsize);
+        //        return new JsonResult("Added Successfully");
+        //    }
+        //    else
+        //    {
+        //        return new JsonResult("Color and Size");
+        //    }
+        //}
+
+
         // POST api/<ProductController>
         [Route("api/Product/InsertProduct")]
         [HttpPost]
-        public IActionResult Post([FromBody] ProductModel product)
+        public async Task<ActionResult> SaveProduct([FromForm] ProductModel product)
         {
 
+            var Ext = System.IO.Path.GetExtension(product.formFile.FileName);
 
-            if (product.ColorId != null & product.SizeId != null)
+            var FileName = product.Product_Title + "_" + DateTime.Now.ToString("dd/MM/yyyy") + Ext;
+
+            dt = objProductDAL.GetProductCategoryById(product.Category_Id);
+            string CategoryName = (string)dt.Rows[0]["Category_Name"];
+
+            var ProductFolderbyCategoryName = Path.Combine("C:", "Alpesh", "Angular Projects", "Vastra", "src", "assets", "img", CategoryName);
+
+            if (!Directory.Exists(ProductFolderbyCategoryName))
             {
-                string xmlcolor = objsqlHelper.ListStrAryToXML(product.ColorId, "colors", "colorcode", "colorid");
-                string xmlsize = objsqlHelper.ListStrAryToXML(product.SizeId, "size", "sizecode", "sizeid");
-                dt = objProductDAL.InsertProduct((int)product.Category_Id, product.SubCategory_Id, product.Product_Title, product.Product_Description, product.Image_Name, xmlcolor, xmlsize);
-                return new JsonResult("Added Successfully");
+                //If Directory (Folder) does not exists. Create it.
+                Directory.CreateDirectory(ProductFolderbyCategoryName);
             }
-            else
-            {
-                return new JsonResult("Color and Size");
-            }
+            string ColorId = product.ColorId;
+            List<int> ColorIds = ColorId.Split(',').Select(int.Parse).ToList();
+            int[] ColorIdsInArray = ColorIds.ToArray();
+
+            string SizeId = product.SizeId;
+            List<int> SizeIdS = SizeId.Split(',').Select(int.Parse).ToList();
+            int[] SizeIdSInArray = SizeIdS.ToArray();
+
+            string xmlcolor = objsqlHelper.ListStrAryToXML(ColorIdsInArray, "colors", "colorcode", "colorid");
+            string xmlsize = objsqlHelper.ListStrAryToXML(SizeIdSInArray, "size", "sizecode", "sizeid");
+            dt = objProductDAL.InsertProduct((int)product.Category_Id, product.SubCategory_Id, product.Product_Title, product.Product_Description, FileName, xmlcolor, xmlsize);
+
+            var SaveImage = saveImage.SaveImagesAsync(product.formFile, FileName, ProductFolderbyCategoryName);
+
+            return new JsonResult("Added Successfully");
+
         }
-
         // PUT api/<ProductController>/5
         [Route("api/Product/UpdateProduct")]
         //  [HttpPut("{id}")]
         [HttpPut]
-        public IActionResult Put([FromBody] ProductModel product)
+        public async Task<ActionResult> UpdateProduct([FromForm] ProductModel product)
         {
+            var Ext = System.IO.Path.GetExtension(product.formFile.FileName);
 
-            if (product.Product_Id != 0)
+            var FileName = product.Product_Title + "_" + DateTime.Now.ToString("dd/MM/yyyy") + Ext;
+
+            dt = objProductDAL.GetProductCategoryById(product.Category_Id);
+            string CategoryName = (string)dt.Rows[0]["Category_Name"];
+
+            var ProductFolderbyCategoryName = Path.Combine("C:", "Alpesh", "Angular Projects", "Vastra", "src", "assets", "img", CategoryName);
+            if (!Directory.Exists(ProductFolderbyCategoryName))
             {
-                string xmlcolor = objsqlHelper.ListStrAryToXML(product.ColorId, "colors", "colorcode", "colorid");
-                string xmlsize = objsqlHelper.ListStrAryToXML(product.SizeId, "size", "sizecode", "sizeid");
-                dt = objProductDAL.UpdateProduct(product.Product_Id, (int)product.Category_Id, product.SubCategory_Id, product.Product_Title, product.Product_Description, product.Image_Name, xmlcolor, xmlsize);
-                return new JsonResult("Updated Successfully");
+                //If Directory (Folder) does not exists. Create it.
+                Directory.CreateDirectory(ProductFolderbyCategoryName);
             }
-            return new JsonResult("Product_Id is not valid");
+
+            string ColorId = product.ColorId;
+            List<int> ColorIds = ColorId.Split(',').Select(int.Parse).ToList();
+            int[] ColorIdsInArray = ColorIds.ToArray();
+
+            string SizeId = product.SizeId;
+            List<int> SizeIdS = SizeId.Split(',').Select(int.Parse).ToList();
+            int[] SizeIdSInArray = SizeIdS.ToArray();
+
+            string xmlcolor = objsqlHelper.ListStrAryToXML(ColorIdsInArray, "colors", "colorcode", "colorid");
+            string xmlsize = objsqlHelper.ListStrAryToXML(SizeIdSInArray, "size", "sizecode", "sizeid");
+
+            dt = objProductDAL.UpdateProduct(product.Product_Id, (int)product.Category_Id, 4, product.Product_Title, product.Product_Description, FileName, xmlcolor, xmlsize);
+            var SaveImage = saveImage.SaveImagesAsync(product.formFile, FileName, ProductFolderbyCategoryName);
+            return new JsonResult("Updated Successfully");
 
         }
+
+        //// PUT api/<ProductController>/5
+        //[Route("api/Product/UpdateProduct")]
+        ////  [HttpPut("{id}")]
+        //[HttpPut]
+        //public IActionResult Put([FromBody] ProductModel product)
+        //{
+
+        //    if (product.Product_Id != 0)
+        //    {
+        //        string xmlcolor = objsqlHelper.ListStrAryToXML(product.ColorId, "colors", "colorcode", "colorid");
+        //        string xmlsize = objsqlHelper.ListStrAryToXML(product.SizeId, "size", "sizecode", "sizeid");
+        //        dt = objProductDAL.UpdateProduct(product.Product_Id, (int)product.Category_Id, product.SubCategory_Id, product.Product_Title, product.Product_Description, product.Image_Name, xmlcolor, xmlsize);
+        //        return new JsonResult("Updated Successfully");
+        //    }
+        //    return new JsonResult("Product_Id is not valid");
+
+        //}
+
+
         //Products end
 
         //Category start
@@ -189,20 +268,50 @@ namespace VastraIndiaWebAPI.Controllers
 
         }
 
+
         [Route("api/Product/InsertCategory")]
         [HttpPost("")]
-        public IActionResult Post([FromBody] CategoryModel category)
+        public async Task<ActionResult> SaveProductcategory([FromForm] CategoryModel category)
         {
-            dt = objProductDAL.InsertCategory(category.Category_Name, category.Category_Photo, category.Category_Description);
+            var Ext = System.IO.Path.GetExtension(category.formFile.FileName);
+
+            var FileName = category.Category_Name + "_" + DateTime.Now.ToString("dd/MM/yyyy") + Ext;
+
+            var CategoryFolderName = Path.Combine("C:", "Alpesh", "Angular Projects", "Vastra", "src", "assets", "img", "category");
+
+            if (!Directory.Exists(CategoryFolderName))
+            {
+                //If Directory (Folder) does not exists. Create it.
+                Directory.CreateDirectory(CategoryFolderName);
+            }
+
+            dt = objProductDAL.InsertCategory(category.Category_Name, FileName, category.Category_Description);
+            var SaveImage = saveImage.SaveImagesAsync(category.formFile, FileName, CategoryFolderName);
             return new JsonResult("Added Successfully");
+
         }
+
+
         // PUT api/<ProductController>/5
         [Route("api/Product/UpdateCategory")]
         // [HttpPut("{id}")]
         [HttpPut]
-        public IActionResult Put([FromBody] CategoryModel category)
+        public async Task<ActionResult> UpdateProductcategory([FromForm] CategoryModel category)
         {
-            dt = objProductDAL.UpdateCategory(category.Category_Id, category.Category_Name, category.Category_Photo, category.Category_Description);
+
+            var Ext = System.IO.Path.GetExtension(category.formFile.FileName);
+
+            var FileName = category.Category_Name + "_" + DateTime.Now.ToString("dd/MM/yyyy") + Ext;
+
+            var CategoryFolderName = Path.Combine("C:", "Alpesh", "Angular Projects", "Vastra", "src", "assets", "img", "category");
+
+            if (!Directory.Exists(CategoryFolderName))
+            {
+                //If Directory (Folder) does not exists. Create it.
+                Directory.CreateDirectory(CategoryFolderName);
+            }
+            dt = objProductDAL.UpdateCategory(category.Category_Id, category.Category_Name, FileName, category.Category_Description);
+            var SaveImage = saveImage.SaveImagesAsync(category.formFile, FileName, CategoryFolderName);
             return new JsonResult("Updated Successfully");
         }
         //Category end
@@ -443,7 +552,7 @@ namespace VastraIndiaWebAPI.Controllers
         //SubCategory end
 
 
-
+        //Get Sub Cat Dropdown by Cat id
         [Route("api/Product/GetSubCatByCatid")]
         [HttpGet("{id}")]
         public IActionResult GetSubCatByCatid(int id)
@@ -463,7 +572,7 @@ namespace VastraIndiaWebAPI.Controllers
             }
             return new JsonResult(parentRow);
         }
-
+ 
 
 
         [Route("api/Product/GetColorCodeListByProductId")]
@@ -623,6 +732,9 @@ namespace VastraIndiaWebAPI.Controllers
         }
 
         //ProductPagination End
+
+
+
 
     }
 }

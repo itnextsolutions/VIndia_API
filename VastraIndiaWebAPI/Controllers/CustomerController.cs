@@ -21,6 +21,7 @@ namespace VastraIndiaWebAPI.Controllers
     {
         DataTable dt = new DataTable();
         CustomerDAL customer = new CustomerDAL();
+        SaveImageDAL saveImage = new SaveImageDAL();
 
         // GET: api/<CustomerController>
         [HttpGet]
@@ -65,44 +66,68 @@ namespace VastraIndiaWebAPI.Controllers
         }
 
 
+
         // POST api/<CustomerController>
         [Route("api/Customer/InsertCustomerReview")]
         [HttpPost]
-        public IActionResult Post([FromBody] CustomerModel cust)
+        public async Task<ActionResult> SaveCustReview([FromForm] CustomerModel cust)
         {
-            dt = customer.InsertCustomerReview(cust.Client_Name,cust.Profession,cust.Review,cust.Client_Photo,cust.Rating);
+
+            var Ext = System.IO.Path.GetExtension(cust.formFile.FileName);
+
+            var FileName = cust.Client_Name + "_" + DateTime.Now.ToString("dd/MM/yyyy") + Ext;
+
+            var ClientReviewsFolderName = Path.Combine("C:", "Alpesh", "Angular Projects", "Vastra", "src", "assets", "img", "client_reviews");
+
+            if (!Directory.Exists(ClientReviewsFolderName))
+            {
+                //If Directory (Folder) does not exists. Create it.
+                Directory.CreateDirectory(ClientReviewsFolderName);
+            }
+
+            dt = customer.InsertCustomerReview(cust.Client_Name, cust.Profession, cust.Review, FileName, cust.Rating);
+
+            var SaveImage = saveImage.SaveImagesAsync(cust.formFile, FileName, ClientReviewsFolderName);
+
             return new JsonResult("Added Successfully");
         }
-
 
         // PUT api/<CustomerController>/5
         [Route("api/Customer/UpdateCustomerReview")]
         //  [HttpPut("{id}")]
         [HttpPut]
-        public IActionResult Put([FromBody] CustomerModel cust)
+        public async Task<ActionResult> UpdateCustReview([FromForm] CustomerModel cust)
         {
-            if (cust != null)
+
+            var Ext = System.IO.Path.GetExtension(cust.formFile.FileName);
+
+            var FileName = cust.Client_Name + "_" + DateTime.Now.ToString("dd/MM/yyyy") + Ext;
+
+            var ClientReviewsFolderName = Path.Combine("C:", "Alpesh", "Angular Projects", "Vastra", "src", "assets", "img", "client_reviews");
+
+            if (!Directory.Exists(ClientReviewsFolderName))
             {
-                if (cust.Customer_Review_Id != 0)
-                {
-                    dt = customer.UpdateCustomerReview(cust.Customer_Review_Id, cust.Client_Name, cust.Profession, cust.Review, cust.Client_Photo, cust.Rating);
-                    return new JsonResult("Updated Successfully");
-                }
+                //If Directory (Folder) does not exists. Create it.
+                Directory.CreateDirectory(ClientReviewsFolderName);
             }
-            return new JsonResult("Entered Data is not valid");
+
+            dt = customer.UpdateCustomerReview(cust.Customer_Review_Id, cust.Client_Name, cust.Profession, cust.Review, FileName, cust.Rating);
+            var SaveImage = saveImage.SaveImagesAsync(cust.formFile, FileName, ClientReviewsFolderName);
+            return new JsonResult("Updated Successfully");
 
         }
 
-        //// DELETE api/<CustomerController>/5
-        //[Route("api/Product/DeleteProduct")]
-        //[HttpDelete("{id}")]
-        //// DELETE api/<ProductController>/5
-        //public void Delete(int id)
-        //{
 
-        //    dt = customer.De(id);
+        // DELETE api/<CustomerController>/5
+        [Route("api/Customer/DeleteCustomerReview")]
+        [HttpDelete("{id}")]
+        // DELETE api/<ProductController>/5
+        public void Delete(int id)
+        {
 
-        //}
+            dt = customer.DeleteCustomerReviewById(id);
+
+        }
 
         [HttpGet]
         [Route("api/Customer/GetCustomerReviewPagination")]
@@ -143,39 +168,6 @@ namespace VastraIndiaWebAPI.Controllers
                 parentRow.Add(childRow);
             }
             return new JsonResult(parentRow);
-        }
-
-        [HttpPost, DisableRequestSizeLimit]
-        [Route("api/Customer/Upload")]
-        public async Task<IActionResult> UploadAsync()
-        {
-            try
-            {
-
-                var formCollection = await Request.ReadFormAsync();
-                var file = formCollection.Files.First();
-                var folderName = Path.Combine("Resources", "Images");
-                var pathToSave = Path.Combine(Directory.GetCurrentDirectory(), folderName);
-                if (file.Length > 0)
-                {
-                    var fileName = ContentDispositionHeaderValue.Parse(file.ContentDisposition).FileName.Trim('"');
-                    var fullPath = Path.Combine(pathToSave, fileName);
-                    var dbPath = Path.Combine(folderName, fileName);
-                    using (var stream = new FileStream(fullPath, FileMode.Create))
-                    {
-                        file.CopyTo(stream);
-                    }
-                    return Ok(new { dbPath });
-                }
-                else
-                {
-                    return BadRequest();
-                }
-            }
-            catch (Exception ex)
-            {
-                return StatusCode(500, $"Internal server error: {ex}");
-            }
         }
     }
 }

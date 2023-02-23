@@ -35,11 +35,31 @@ namespace VastraIndiaWebAPI.Controllers
         }
 
         // POST api/<LoginController>
+        [Route("api/Login/login")]
         [HttpPost]
-        public void Post([FromBody] string value)
+        public IActionResult Post([FromBody] LoginModel login)
         {
-        }
+            dt = objLogin.GetLoginDetail(login.username);
 
+            if (dt.Rows.Count != 0)
+            {
+                var hashCode = dt.Rows[0]["Vcode"];
+                //Password Hasing Process Call LoginHelper Class Method    
+                var encodingPasswordString = LoginHelper.EncodePassword(login.password, Convert.ToString(hashCode));
+
+                dt = objLogin.Login(login.username, encodingPasswordString);
+
+                if (dt.Rows.Count != 0)
+                {
+                    return new JsonResult("Success");
+                }
+
+                return new JsonResult("Invalid Password");
+            }
+
+            return new JsonResult("Invalid UserName & Password");
+
+        }
         // PUT api/<LoginController>/5
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] string value)
